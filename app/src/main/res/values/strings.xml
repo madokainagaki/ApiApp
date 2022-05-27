@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ApiApp</string>
+<!--    tabLoyoutのタイトル-->
+<!--   R.string.tab_title_api と R.string.tab_title_favorite で取得することが可能-->
+    <string name ="tab_title_api">新着順</string>
+    <string name ="tab_title_favorite">お気に入り</string>
+
+<!--    api通信につかう-->
+    <string name ="base_url">https://webservice.recruit.co.jp/hotpepper/gourmet/v1/</string>
+    <string name ="api_key">2544267710756b85</string>
+    <string name ="api_keyword">ランチ</string>
+</resources>
+
